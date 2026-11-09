@@ -12,5 +12,6 @@ This is a position paper, not an empirical study. In the specific workflow of lo
 This paper presents only the view of my school: what governance structure is more reliable for long-horizon AI assistants, why the layering is so, and where the boundaries lie.
 
 ## 📦 Contents
-- `BFLCA论文_桥滤式分层认知架构_v20.1_20261104.pdf`: The full paper (Chinese).
+- [`BFLCA论文_桥滤式分层认知架构_v20.1_20261104.pdf`](./BFLCA论文_桥滤式分层认知架构_v20.1_20261104.pdf) : The full paper (Chinese).
+  - ⚠️ **Note:** GitHub's built-in PDF viewer may fail to render. Please click the link above to **Download** and read locally.
 - `BFLCA 五层治理结构-严格包含层级.png`: The core architecture diagram.
