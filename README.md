@@ -1,7 +1,7 @@
 # BFLCA (Bridge-Filter Layered Cognitive Architecture)
 
 An independently developed AI Agent governance framework based on real-world production.
-
+![BFLCA Architecture](./BFLCA架构表_v5.png)
 ## 📄 Paper
 **Title:** BFLCA: Bridge-Filter Layered Cognitive Architecture - Coordination of Memory, Evolution, and Endogenous Safety
 **Author:** Moyu Rongzu (墨羽戎卒)
